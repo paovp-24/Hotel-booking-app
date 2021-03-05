@@ -11,7 +11,7 @@ using WebApiSegura.Models;
 
 namespace WebApiSegura.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [RoutePrefix("api/vuelo")]
     public class VueloController : ApiController
     {
