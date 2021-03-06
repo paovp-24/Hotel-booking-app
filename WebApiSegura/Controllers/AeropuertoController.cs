@@ -10,7 +10,7 @@ using WebApiSegura.Models;
 
 namespace WebApiSegura.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [RoutePrefix("api/aeropuerto")]
     public class AeropuertoController : ApiController
     {
