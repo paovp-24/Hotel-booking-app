@@ -9,7 +9,7 @@ using System.Web.Http;
 using WebApiSegura.Models;
 namespace WebApiSegura.Controllers
 {
-    [AllowAnonymous]
+    [Authorize]
     [RoutePrefix("api/pago")]
     public class PagoController : ApiController
     {
