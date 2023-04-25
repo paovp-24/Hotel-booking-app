@@ -1,0 +1,1 @@
+so gente, estamos planeando para el 20 de mayo hacer una parrillada y de paso celebrar el cumple de Karl en la casa de Karl y queríamos saber quiénes podrían para esa fecha ( la hora empezaría a las 3 de la tarde) El lugar es por San Antonio, Coronado ya el mismo día se pasa la ubicación.
